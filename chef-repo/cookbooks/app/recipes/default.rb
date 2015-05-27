@@ -10,6 +10,6 @@ include_recipe 'app::mysql_service'
 package 'httpd'
 
 service 'httpd' do
-  action [ :enable, :start ]
+  action [:enable, :start]
 end
 

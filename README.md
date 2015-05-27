@@ -1,5 +1,5 @@
 # mocha-repo
 
-Sean P. Kane  - skane+velocity@newrelic.com
+Sean P. Kane  - skanePLUSvelocityATnewrelicDOTcom
 Venkata Sitaraman - venkata.sitaraman@target.com
 
